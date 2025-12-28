@@ -3,7 +3,7 @@
 
 APP_TITLE        = "🍳 Egg Timer Application"
 PIXEL_TITLE      = "Egg Timer"
-HOME_PAGE        = "Let's time your Egg!"
+HOME_PAGE        = "Let's time\n        your Egg!"
 
 # Image Paths
 LIB_FONT_PATH   = "lib/font"
